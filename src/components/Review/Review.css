@@ -1,0 +1,20 @@
+.review {
+    max-width: 400px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.15);
+}
+
+.review button {
+    margin-right: 10px;
+}
+
+.statistics ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.statistics ul li {
+    margin-bottom: 5px;
+}
